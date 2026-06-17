@@ -5,3 +5,8 @@
 📚 Graduado em Engenharia Mecatrônica enfase em Computação UNIP
 📚 Estudando Java, Spring Boot e boas práticas de desenvolvimento backend.
 📍 São Paulo, SP, Brasil.
+
+
+
+🖥️ Tecnologias e Ferramentas / Technologies and Tools:
+GIT GITHUB JAVA Spring Boot MYSQL VSCODE IntelliJ Postman
